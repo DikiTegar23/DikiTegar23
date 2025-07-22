@@ -28,3 +28,12 @@ Here are some ideas to get you started:
 
 ##### Github Stats
 ![Diki Tegar R GitHub stats](https://github-readme-stats.vercel.app/api?username=DikiTegar23&show_icons=true&theme=transparent)
+
+
+<p align="left">Play games with me</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/DikiTegar23/DikiTegar23/output/snake.svg" alt="Snake animation" />
+
+###
